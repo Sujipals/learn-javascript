@@ -1,7 +1,7 @@
 html,body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    background-color: #f5e8ba;
+    background-color: #44b893;
 }
 #wrapper div,#wrapper h2{
     display:flex;
@@ -9,7 +9,7 @@ html,body{
 }
 
 h2{
-    color:#ffeba7;
+    color:#1fcdbb;
     letter-spacing: 1px;
 }
 input{
@@ -33,7 +33,7 @@ input:active{
 }
 button{
 margin-top: 20px;
-background-color: #ffeba7;
+background-color: #32cfa2;
 border-radius:4px;
 height: 44px;
 font-weight: 600;
